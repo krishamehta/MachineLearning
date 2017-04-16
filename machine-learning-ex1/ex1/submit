@@ -1,0 +1,50 @@
+A =
+
+Diagonal Matrix
+
+   1   0   0   0   0
+   0   1   0   0   0
+   0   0   1   0   0
+   0   0   0   1   0
+   0   0   0   0   1
+
+!! Submission failed: You used an invalid email or your token may have expired. Please make sure you have entered all fields correctly. Try generating a new token if the issue still persists.
+== 
+==                                   Part Name |     Score | Feedback
+==                                   --------- |     ----- | --------
+==                            Warm-up Exercise |  10 /  10 | Nice work!
+==           Computing Cost (for One Variable) |   0 /  40 | 
+==         Gradient Descent (for One Variable) |   0 /  50 | 
+==                       Feature Normalization |   0 /   0 | 
+==     Computing Cost (for Multiple Variables) |   0 /   0 | 
+==   Gradient Descent (for Multiple Variables) |   0 /   0 | 
+==                            Normal Equations |   0 /   0 | 
+==                                   --------------------------------
+==                                             |  10 / 100 | 
+== 
+== 
+==                                   Part Name |     Score | Feedback
+==                                   --------- |     ----- | --------
+==                            Warm-up Exercise |  10 /  10 | Nice work!
+==           Computing Cost (for One Variable) |   0 /  40 | 
+==         Gradient Descent (for One Variable) |   0 /  50 | 
+==                       Feature Normalization |   0 /   0 | 
+==     Computing Cost (for Multiple Variables) |   0 /   0 | 
+==   Gradient Descent (for Multiple Variables) |   0 /   0 | 
+==                            Normal Equations |   0 /   0 | 
+==                                   --------------------------------
+==                                             |  10 / 100 | 
+== 
+!! Submission failed: You used an invalid email or your token may have expired. Please make sure you have entered all fields correctly. Try generating a new token if the issue still persists.
+!! Submission failed: You used an invalid email or your token may have expired. Please make sure you have entered all fields correctly. Try generating a new token if the issue still persists.
+ans =
+
+Diagonal Matrix
+
+   1   0   0   0   0
+   0   1   0   0   0
+   0   0   1   0   0
+   0   0   0   1   0
+   0   0   0   0   1
+
+Program paused. Press enter to continue.
